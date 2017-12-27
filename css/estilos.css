@@ -1,0 +1,54 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#logo{
+	width: 40%;
+	height: 10em;
+	margin-left: 10%;
+}
+header div{
+	width: 100%;
+	border-bottom: 3px solid #2EE963;
+}
+h1{
+	text-align: center;
+	margin-top: 3em;
+	font-size: 3em;
+	color: #2EE963;
+	font-family: sans-serif;
+
+}
+p{
+	width: 95%;
+	text-align: center;
+	font-size: 2em;
+	color: #5D5A5A;
+
+}
+.login{
+	margin:3em 10%;
+}
+.login input{
+	width: 80%;
+	height: 3em;
+	border-radius: 0.2em;
+}
+.login .boton{
+	margin-top: 0.8em;
+	font-size: 1em;
+	color: #fff;
+	background-color: #2EE963;
+}
+.facebook-btn, .google-btn{
+	width: 80%;
+	background-color: blue;
+	color: #fff;
+	margin: auto;
+	font-size: 0.7em;
+	font-family: serif;
+	margin-top: 10px;
+}
+
+
